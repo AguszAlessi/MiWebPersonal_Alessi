@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MiWebPersonal_Alessi.props" />
+</Project>

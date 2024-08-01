@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MiWebPersonal_Alessi.props" />
+</Project>
