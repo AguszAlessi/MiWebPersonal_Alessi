@@ -20,6 +20,7 @@ namespace MiWebPersonal_Alessi.Models
         static public List <string> Proyectos {get; private set;} = new List <string> () {"Sala de escape" , "Que hacer en Nueva York remasterizado" , "La mueblería de mi tia"};
 
         static public List <string> Idiomas {get; private set;} = new List <string> () {"español" , "hebreo" , "ingles"};
+        
 
     }
 }

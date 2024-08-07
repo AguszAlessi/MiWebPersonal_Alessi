@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiWebPersonal_Alessi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb6dde75cebb0531e95a280a29860a056854e21c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e856c2b563c1106efc81630ff9630616a619ed9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiWebPersonal_Alessi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiWebPersonal_Alessi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
