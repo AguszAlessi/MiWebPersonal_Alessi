@@ -15,16 +15,25 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        ViewBag.sobremi = Datos.SobreMi;
         return View();
     }
 
     public IActionResult proyectos()
     {
+        ViewBag.proyectos = Datos.Proyectos;
+        ViewBag.DescProyecto1 = Datos.descproyecto1;
+        ViewBag.DescProyecto2 = Datos.descproyecto2;
+        ViewBag.DescProyecto3 = Datos.descproyecto3;
         return View();
     }
 
     public IActionResult SobreMi()
     {
+        ViewBag.Deportes = Datos.deportes;
+        ViewBag.idiomas = Datos.Idiomas;
+        ViewBag.colegios = Datos.Colegios;
+        ViewBag.Comidas = Datos.comidas;
         return View();
     }
     
